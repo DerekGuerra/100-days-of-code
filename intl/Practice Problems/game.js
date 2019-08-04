@@ -11,7 +11,7 @@ if (Number(guess) === secretNumber) {
 }
 
 //otherwise check if higher
-else if(Number(guess) > secretNumber) {
+else if (Number(guess) > secretNumber) {
   alert("Too high, try again!");
 }
 

@@ -15,25 +15,30 @@ DAY 3:
 
 Today I did a bit more work on frontend and started more code with JavaScript, I made a Simple Guessing Game program without repition for now, but will come in the near future. Also added more to personal Project.
 
-//create secret number
-var secretNumber = 4;
+          //create secret number
+          var secretNumber = 4;
 
 
-//ask user for guess
-var guess = prompt("Guess a number");
+          //ask user for guess
+          var guess = prompt("Guess a number");
 
-//check guess
-if (Number(guess) === secretNumber) {
-  alert("You got it!!");
-}
+          //check guess
+          if (Number(guess) === secretNumber) {
+            alert("You got it!!");
+          }
 
-//otherwise check if higher
-else if(Number(guess) > secretNumber) {
-  alert("Too high, try again!");
-}
+          //otherwise check if higher
+          else if(Number(guess) > secretNumber) {
+            alert("Too high, try again!");
+          }
 
-//checks if lower
-else {
-  alert("Too low, guess again!");
-}
+          //checks if lower
+          else {
+            alert("Too low, guess again!");
+          }
 
+DAY 4:
+
+Today I practiced more with Applied Visual Design with frontend, and worked more with JavaScript. I am practicing on making websites a bit more dynamic!
+
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color
