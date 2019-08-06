@@ -42,3 +42,9 @@ DAY 4:
 Today I practiced more with Applied Visual Design with frontend, and worked more with JavaScript. I am practicing on making websites a bit more dynamic!
 
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color
+
+DAY 5:
+
+Had a busy day with the family and didnt have much time to code, nevertheless worked on some front end!
+
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color
