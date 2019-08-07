@@ -48,3 +48,9 @@ DAY 5:
 Had a busy day with the family and didnt have much time to code, nevertheless worked on some front end!
 
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color
+
+DAY 6: 
+
+Today I had the opportunity to work a little bit on the backend side of a previous project that was made during my bootcamp. I mainly used it for practice with authetications and user data. Also worked with Applied Visual Design: Use the CSS Transform scale Property to Change the Size of an Element for my front end.
+
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
