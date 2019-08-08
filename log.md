@@ -54,3 +54,10 @@ DAY 6:
 Today I had the opportunity to work a little bit on the backend side of a previous project that was made during my bootcamp. I mainly used it for practice with authetications and user data. Also worked with Applied Visual Design: Use the CSS Transform scale Property to Change the Size of an Element for my front end.
 
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element
+
+DAY 7: 
+
+Today I worked more with website structure and becoming a bit more familiar with for loops in javascript. I also completed a few more tasks on the html/css side of things. I also started discovering web developement podcasts! 
+
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css
+https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/3861360?start=0#overview
