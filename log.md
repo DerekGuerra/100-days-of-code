@@ -61,3 +61,9 @@ Today I worked more with website structure and becoming a bit more familiar with
 
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css
 https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/3861360?start=0#overview
+
+DAY 8: 
+
+Today i didnt have much time to sit and code, but i worked with creating movements using CSS animation and did some work with more javascript.
+
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-movement-using-css-animation/
