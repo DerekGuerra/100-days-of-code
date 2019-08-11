@@ -67,3 +67,9 @@ DAY 8:
 Today i didnt have much time to sit and code, but i worked with creating movements using CSS animation and did some work with more javascript.
 
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-movement-using-css-animation/
+
+DAY 9: 
+
+Today I spent my day off watching several videos catching up on basics with python and Javascript. I did some practice code on hackerrank and tried rewriting some simple programs for python (guessing game & countdown program).
+
+https://www.udemy.com/complete-python-bootcamp/learn/lecture/9388540?start=0#overview
