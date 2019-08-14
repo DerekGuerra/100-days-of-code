@@ -73,3 +73,15 @@ DAY 9:
 Today I spent my day off watching several videos catching up on basics with python and Javascript. I did some practice code on hackerrank and tried rewriting some simple programs for python (guessing game & countdown program).
 
 https://www.udemy.com/complete-python-bootcamp/learn/lecture/9388540?start=0#overview
+
+Day 10:
+
+Today I focused a bit more into detailing with while loops with JavaScript to help keep code D.R.Y (Dont repeat code) to make sure readability is as best as possible. I also worked on a few things for front end in changing directions of set objects using cubic-bezier or animation-timing-function
+
+https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/3861366#overview
+
+DAY 11:
+
+I strictly worked on JavaScript while loops and for loops, made a fun little program to constantly ask for user input if answer was not met using prompt(); 
+
+https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/6651418#overview
