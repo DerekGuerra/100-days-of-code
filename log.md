@@ -85,3 +85,9 @@ DAY 11:
 I strictly worked on JavaScript while loops and for loops, made a fun little program to constantly ask for user input if answer was not met using prompt(); 
 
 https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/6651418#overview
+
+DAY 12: 
+
+Today I worked with Applied Accessibility with HTML and CSS, Im navigating back and forth between JavaScript and HTML/CSS to get a feel for both a bit quicker.
+
+https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content
