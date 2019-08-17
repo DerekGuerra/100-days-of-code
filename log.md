@@ -127,4 +127,18 @@ for (var i = 5; i <= 50; i++) {
   if (i % 5 === 0 && i % 3 ===0) {
     console.log(i);
   }
-}
+
+
+  DAY 14:
+
+  Today I worked with JavaScript functions both declaration and expression. Made several small programs testing each function using single and multiple arguments. Then called them to make sure they worked.
+
+  Example: 
+          function isEven(num) {
+          if (num % 2 === 0) {
+            return "true";
+          }
+          else {
+            return "False";
+          }
+        }
