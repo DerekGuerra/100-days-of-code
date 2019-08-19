@@ -142,3 +142,12 @@ for (var i = 5; i <= 50; i++) {
             return "False";
           }
         }
+
+DAY 15: 
+
+HTML/CSS
+HTML/CSS
+HTML/CSS
+HTML/CSS
+HTML/CSS
+werk
