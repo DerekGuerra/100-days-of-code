@@ -151,3 +151,7 @@ HTML/CSS
 HTML/CSS
 HTML/CSS
 werk
+
+Day 16:
+
+Worked on JavaScript functions and included For() loops in there with 1-3 arguments for each funtion. 

@@ -1,24 +1,33 @@
-console.log("**Problem 1**");
+// console.log("**Problem 1**");
 
-function isEven(num) {
-  if (num % 2 === 0) {
-    return "true";
-  }
-  else {
-    return "False";
-  }
-}
-~
+// function isEven(num) {
+//   if (num % 2 === 0) {
+//     return "true";
+//   }
+//   else {
+//     return "False";
+//   }
+// }
 
-console.log("**Problem 2**");
+
+// console.log("**Problem 2**");
 
 function factorial(num) {
-  while (num <= 1) {
-    console.log(num * num);
+  var result = 1;
+
+  for (var i = 2; i <= num; i++) {
+    result *= i;
   }
-  num--;
+  return result;
 }
 
 
 
-console.log("**Problem 3**");
+// console.log("**Problem 3**");
+
+
+function kebabToSnake(str) {
+  var newStr = str.replace(/-/g , "_");
+  return newStr;
+}
+
