@@ -155,3 +155,23 @@ werk
 Day 16:
 
 Worked on JavaScript functions and included For() loops in there with 1-3 arguments for each funtion. 
+
+Day 17: 
+
+Worked with JavaScript Scope examples, declarin variables inside and outside of functions and how we are able to manipulate them differently. 
+
+example: 
+
+var phrase = "hi there!";
+
+function doSomething() {
+  var phrase = "Goodbye!";
+  console.log(phrase);
+}
+
+doSomething();
+//prints "Goodbye!"
+
+//outside of the function, if we try to get phrase.
+phrase;
+//prints "hi there!"
