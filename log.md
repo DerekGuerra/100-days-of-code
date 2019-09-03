@@ -245,4 +245,31 @@ console.log(friends[2][0]);
 //prints "mooney"
 //corrct
 
+Day 20: 
 
+Programmed a simple "To-Do list app" that takes uses a while loop to repeatedly ask for user input and begins with an empty array then gets elemnts added from the user prompts using .push, and also a function to show all the to-do's or to quit the app. 
+
+var todos = ["Clean Rooom"];
+
+var input = prompt("What would you like to do?");
+
+
+while (input !== "quit") {
+  //handle input
+  if (input === "list") {
+    console.log(todos);
+  } else if (input === "new") {
+    //ask for new to fo
+    var newTodo = prompt("Enter a new todo");
+    //add to the list
+    todos.push(newTodo);
+  }
+  input = prompt("What would you like to do?");
+}
+console.log("Thank you for using the todo app!");
+
+Day 21:
+
+Started working from scratch on creating an Issue App, which is working with both HTML and JavaScript. I completed the HTMl form-controls and the seperate <div>'s to create each input. It will require an input (issue), a uregency using <select> and an assignee to attach it to 
+
+https://github.com/DerekGuerra/jsIssueApp
