@@ -273,3 +273,7 @@ Day 21:
 Started working from scratch on creating an Issue App, which is working with both HTML and JavaScript. I completed the HTMl form-controls and the seperate <div>'s to create each input. It will require an input (issue), a uregency using <select> and an assignee to attach it to 
 
 https://github.com/DerekGuerra/jsIssueApp
+
+day 22: 
+
+Today i worked on setting up the JavaScript functions to allow the data being inputted on the user end to save and store it inside of the database while being able to reciprocate a visual feed to it...didnt quite get it done but working on it!
