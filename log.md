@@ -238,17 +238,14 @@ var frineds = [
   ["mooney", "wormtail", "prongs"]
 ];
 
-// what is the result of this line:
+/ what is the result of this line:
 
 console.log(friends[2][0]);
 
 //prints "mooney"
 //corrct
 
-Day 20: 
-
-Programmed a simple "To-Do list app" that takes uses a while loop to repeatedly ask for user input and begins with an empty array then gets elemnts added from the user prompts using .push, and also a function to show all the to-do's or to quit the app. 
-
+D
 var todos = ["Clean Rooom"];
 
 var input = prompt("What would you like to do?");
@@ -277,3 +274,7 @@ https://github.com/DerekGuerra/jsIssueApp
 day 22: 
 
 Today i worked on setting up the JavaScript functions to allow the data being inputted on the user end to save and store it inside of the database while being able to reciprocate a visual feed to it...didnt quite get it done but working on it!
+
+Day 23: 
+
+Today was a light day, just came back from vacation and decided to use my time today to catch up on previous code, rereading, refactoring and debugging. Also did a few JS practice problems i had set out. :)
